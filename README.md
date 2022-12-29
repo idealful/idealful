@@ -28,6 +28,10 @@
 
   - <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=round-square&logo=Apache Tomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
 
+  <!-- Integrated Development Environment, Java -->
+
+  - <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=round-square&logo=Eclipse IDE&logoColor=white"/>
+
   <!-- FrontEnd Markup Language -->
 
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=HTML5&logoColor=white"/>
@@ -36,11 +40,13 @@
 
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jQuery&logoColor=white"/>
 
-  <!-- Text Editor, Integrated Development Environment  -->
+  <!-- Text Editor -->
+  <!-- Code Formatter -->
+  <!-- Code Quality -->
 
-  - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=round-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=round-square&logo=Eclipse IDE&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=round-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=round-square&logo=Prettier&logoColor=black"/> <img src="https://img.shields.io/badge/SonarLint-CB2029?style=round-square&logo=SonarLint&logoColor=white"/>
 
-  <!-- Version Control System  -->
+  <!-- Version Control System -->
 
   - <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"/>
 
@@ -54,19 +60,15 @@
 
   - <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=MariaDB&logoColor=white"/>
 
-  <!-- BackEnd Language -->
-
-  - <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>
-
   <!-- JavaScript Runtime, Web Application Framework -->
 
   - <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=Express&logoColor=white"/>
 
-  <!-- FrontEnd JavaScript Framework  -->
+  <!-- FrontEnd JavaScript Framework -->
 
   - <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=Vue.js&logoColor=white"/>
 
-  <!-- Cascading Style Sheets, CSS Framework  -->
+  <!-- Cascading Style Sheets, CSS Framework -->
 
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=round-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=round-square&logo=Tailwind CSS&logoColor=white"/>
 
@@ -74,25 +76,21 @@
 
   - <img src="https://img.shields.io/badge/Subversion-809CC9?style=round-square&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Perforce-404040?style=round-square&logo=Perforce&logoColor=white"/>
 
-  <!-- Library, Build, Package Management -->
+  <!-- Library / Build, Package Management, Java -->
 
-  - <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=round-square&logo=Apache Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=round-square&logo=npm&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=round-square&logo=Apache Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=white"/>
+
+  <!-- Library / Build, Package Management, JavaScript -->
+
+  - <img src="https://img.shields.io/badge/npm-CB3837?style=round-square&logo=npm&logoColor=white"/>
 
   <!-- Continuous Integration, Continuous Delivery(Deployment) -->
 
-  - <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=round-square&logo=GitHub Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=Jenkins&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=round-square&logo=GitHub Actions&logoColor=white"/>
 
   <!-- Issue Tracker -->
 
   - <img src="https://img.shields.io/badge/Redmine-B32024?style=round-square&logo=Redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white"/>
-
-  <!-- Code Formatter -->
-
-  - <img src="https://img.shields.io/badge/Prettier-F7B93E?style=round-square&logo=Prettier&logoColor=black"/>
-
-  <!-- Code Quality -->
-
-  - <img src="https://img.shields.io/badge/SonarLint-CB2029?style=round-square&logo=SonarLint&logoColor=white"/>
 
   <!-- API Platform -->
 
@@ -100,13 +98,23 @@
 
 - 🌒 Low
 
-  <!-- Cloud Service Provider  -->
+  <!-- Cloud Service Provider -->
 
   - <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=round-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=round-square&logo=Google Cloud&logoColor=white"/>
 
   <!-- Web Server -->
 
   - <img src="https://img.shields.io/badge/NGINX-009639?style=round-square&logo=NGINX&logoColor=white"/>
+
+  <!-- BackEnd Language -->
+
+  - <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>
+
+  <!-- Continuous Integration, Continuous Delivery(Deployment) -->
+
+  - <img src="https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=Jenkins&logoColor=white"/>
+
+  - <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=round-square&logo=Argo&logoColor=white"/>
 
   <!-- Container Orchestration -->
 
