@@ -4,7 +4,7 @@
 
 ## 🐱 About Me
 
-- Yun Beom Kim / Web Developer / 10 years / Gyeonggi, South Korea
+- Yun Beom Kim / Web Developer / 11 years / Gyeonggi, South Korea
 
 - Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:idealful@gmail.com)](mailto:idealful@gmail.com)
 
@@ -52,47 +52,47 @@
 
 - 🌓 Medium
 
-  <!-- Container -->
+    <!-- Container -->
 
   - <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
 
-  <!-- DataBase Management System -->
+    <!-- DataBase Management System -->
 
   - <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=MariaDB&logoColor=white"/>
 
-  <!-- JavaScript Runtime, Web Application Framework -->
+    <!-- JavaScript Runtime, Web Application Framework -->
 
   - <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=Express&logoColor=white"/>
 
-  <!-- FrontEnd JavaScript Framework -->
+    <!-- FrontEnd JavaScript Framework -->
 
-  - <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=Vue.js&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/React-grey?style=round-square&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=Vue.js&logoColor=white"/>
 
-  <!-- Cascading Style Sheets, CSS Framework -->
+    <!-- Cascading Style Sheets, CSS Framework -->
 
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=round-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=round-square&logo=Tailwind CSS&logoColor=white"/>
 
-  <!-- Version Control System -->
+    <!-- Version Control System -->
 
   - <img src="https://img.shields.io/badge/Subversion-809CC9?style=round-square&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Perforce-404040?style=round-square&logo=Perforce&logoColor=white"/>
 
-  <!-- Library / Build, Package Management, Java -->
+    <!-- Library / Build, Package Management, Java -->
 
   - <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=round-square&logo=Apache Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=white"/>
 
-  <!-- Library / Build, Package Management, JavaScript -->
+    <!-- Library / Build, Package Management, JavaScript -->
 
   - <img src="https://img.shields.io/badge/npm-CB3837?style=round-square&logo=npm&logoColor=white"/>
 
-  <!-- Continuous Integration, Continuous Delivery(Deployment) -->
+    <!-- Continuous Integration, Continuous Delivery(Deployment) -->
 
   - <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=round-square&logo=GitHub Actions&logoColor=white"/>
 
-  <!-- Issue Tracker -->
+    <!-- Issue Tracker -->
 
   - <img src="https://img.shields.io/badge/Redmine-B32024?style=round-square&logo=Redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white"/>
 
-  <!-- API Platform -->
+    <!-- API Platform -->
 
   - <img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=Postman&logoColor=white"/>
 
